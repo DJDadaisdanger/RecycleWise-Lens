@@ -3,6 +3,7 @@
 **Turn your camera into a smart recycling assistant.**
 
 RecycleWise Lens is an intelligent web application designed to make recycling intuitive and impactful. By simply scanning any household item with their device's camera, users get instant, clear instructions on how to dispose of it responsibly.
+[Watch RecycleWise Lens on Vimeo](https://vimeo.com/1113544374)
 
 ![RecycleWise Lens Screenshot](.idx/Screenshot.png)
 ![RecycleWise Lens Screenshot](.idx/results.png)
